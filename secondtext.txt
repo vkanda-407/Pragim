@@ -1,1 +1,2 @@
 changes made by developer2 can be seen when pulled into developer1 local
+developer1 has opened the file and made some changes
